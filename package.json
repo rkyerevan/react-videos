@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "@typescript-eslint/typescript-estree": "^1.6.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "npm-install-all": "^1.1.21",
+    "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "ts-pnp": "^1.1.2",
+    "tsutils": "^3.10.0",
+    "typescript": "^3.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
