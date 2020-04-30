@@ -8,7 +8,7 @@
     "@typescript-eslint/typescript-estree": "^1.6.0",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "npm-install-all": "^1.1.21",
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
